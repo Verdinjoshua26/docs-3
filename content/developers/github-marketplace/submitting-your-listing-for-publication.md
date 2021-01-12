@@ -1,3 +1,4 @@
+Joshua Verdin
 ---
 title: Submitting your listing for publication
 intro: 'You can submit your listing for the {% data variables.product.prodname_dotcom %} community to use.'
